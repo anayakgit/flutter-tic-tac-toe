@@ -19,5 +19,5 @@ Tap on the grid to place your symbol (X or O).
 The game will announce the winner or a draw and provide an option to restart.
 
 # Contributors
-Ajay Nayak G 
+Ajay Nayak G, 
 Abhay Agarwal - Teammate and co-developer
