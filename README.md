@@ -1,16 +1,23 @@
-# assignment
+# Tic-Tac-Toe Flutter App
+A simple Tic-Tac-Toe game built using Flutter.
 
-A new Flutter project.
+# Getting Started
+This project is a Tic-Tac-Toe game developed as part of an intra-institutional internship focused on mobile application development. It allows two players to play on a 3x3 grid, taking turns to place their symbols (X or O) with the goal of getting three in a row.
 
-## Getting Started
+# Features
+1. Two-player mode with alternating turns.
+2. Real-time updates for player turns.
+3. Win and draw detection with notifications.
+4. Simple and clean user interface.
 
-This project is a starting point for a Flutter application.
+# Technology Used
+Flutter (Dart)
 
-A few resources to get you started if this is your first Flutter project:
+# Usage
+Launch the app on your device or emulator.
+Tap on the grid to place your symbol (X or O).
+The game will announce the winner or a draw and provide an option to restart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Contributors
+Ajay Nayak G 
+Abhay Agarwal - Teammate and co-developer
